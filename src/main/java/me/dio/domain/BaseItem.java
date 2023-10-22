@@ -1,4 +1,4 @@
-package me.dio;
+package me.dio.domain;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

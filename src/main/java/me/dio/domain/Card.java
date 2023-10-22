@@ -1,4 +1,4 @@
-package me.dio;
+package me.dio.domain;
 
 import jakarta.persistence.*;
 import java.math.BigDecimal;

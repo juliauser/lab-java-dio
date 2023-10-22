@@ -1,10 +1,10 @@
-package me.dio;
+package me.dio.domain;
 
 import jakarta.persistence.*;
-import me.dio.Account;
-import me.dio.Card;
-import me.dio.Feature;
-import me.dio.News;
+import me.dio.domain.Account;
+import me.dio.domain.Card;
+import me.dio.domain.Feature;
+import me.dio.domain.News;
 
 import java.util.List;
 
